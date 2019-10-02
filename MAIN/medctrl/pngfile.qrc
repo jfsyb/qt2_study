@@ -1,0 +1,270 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/addw.png</file>
+        <file>images/ap.png</file>
+        <file>images/audio_close.png</file>
+        <file>images/bk12.png</file>
+        <file>images/blender.png</file>
+        <file>images/btnadd.png</file>
+        <file>images/btndel.png</file>
+        <file>images/btnhome.png</file>
+        <file>images/btnnext.png</file>
+        <file>images/btnok.png</file>
+        <file>images/btnpause.png</file>
+        <file>images/btnprevious.png</file>
+        <file>images/btnsetting.png</file>
+        <file>images/btnshutdown.png</file>
+        <file>images/btnstart.png</file>
+        <file>images/cancel12.png</file>
+        <file>images/checked.png</file>
+        <file>images/checknormal.png</file>
+        <file>images/connected_com.png</file>
+        <file>images/connected.png</file>
+        <file>images/connecterror.png</file>
+        <file>images/convert.sh</file>
+        <file>images/cup-h.png</file>
+        <file>images/cup-i.png</file>
+        <file>images/cups.png</file>
+        <file>images/fire.png</file>
+        <file>images/gnderr.png</file>
+        <file>images/group.png</file>
+        <file>images/h5bk.png</file>
+        <file>images/h5sbk.png</file>
+        <file>images/h5setting.png</file>
+        <file>images/h5startup.png</file>
+        <file>images/hide-left.png</file>
+        <file>images/hide-right.png</file>
+        <file>images/invitation.png</file>
+        <file>images/kbback.png</file>
+        <file>images/kbhide.png</file>
+        <file>images/kbl.png</file>
+        <file>images/kbr.png</file>
+        <file>images/kbspace.png</file>
+        <file>images/kbswitch.png</file>
+        <file>images/kbup.png</file>
+        <file>images/labelback.png</file>
+        <file>images/lamp.png</file>
+        <file>images/laptop.png</file>
+        <file>images/lg12.png</file>
+        <file>images/logl.png</file>
+        <file>images/logr.png</file>
+        <file>images/mainset.png</file>
+        <file>images/normalback.png</file>
+        <file>images/ologin.png</file>
+        <file>images/radios.png</file>
+        <file>images/radious.png</file>
+        <file>images/rlabel.png</file>
+        <file>images/set.png</file>
+        <file>images/setbg.png</file>
+        <file>images/shutdown.png</file>
+        <file>images/shutup.png</file>
+        <file>images/sign-down.png</file>
+        <file>images/sign-up-icon.png</file>
+        <file>images/start12.png</file>
+        <file>images/startbk12.png</file>
+        <file>images/startbkr12.png</file>
+        <file>images/startup.png</file>
+        <file>images/startup12.png</file>
+        <file>images/stop12.png</file>
+        <file>images/system.png</file>
+        <file>images/textbk.png</file>
+        <file>images/thumb.png</file>
+        <file>images/thunder.png</file>
+        <file>images/u1.png</file>
+        <file>images/u2.png</file>
+        <file>images/u3.png</file>
+        <file>images/u4.png</file>
+        <file>images/u5.png</file>
+        <file>images/u6.png</file>
+        <file>images/u7.png</file>
+        <file>images/u8.png</file>
+        <file>images/user.png</file>
+        <file>images/useradd.png</file>
+        <file>images/v5add.png</file>
+        <file>images/v5bk.png</file>
+        <file>images/v5del.png</file>
+        <file>images/v5fire.png</file>
+        <file>images/v5home.png</file>
+        <file>images/v5label.png</file>
+        <file>images/v5next.png</file>
+        <file>images/v5pause.png</file>
+        <file>images/v5revious.png</file>
+        <file>images/v5sbk.png</file>
+        <file>images/v5setting.png</file>
+        <file>images/v5shut.png</file>
+        <file>images/v5start.png</file>
+        <file>images/v5startup.png</file>
+        <file>images/v5thunder.png</file>
+        <file>images/v5wind.png</file>
+        <file>images/wifi_diable.png</file>
+        <file>images/wifi_enable_black256.png</file>
+        <file>images/wifi_enable_green256.png</file>
+        <file>images/wifi_enable.png</file>
+        <file>images/wificonnet.png</file>
+        <file>images/wind.png</file>
+    </qresource>
+    <qresource prefix="/seven">
+        <file>imgs/add.png</file>
+        <file>imgs/addp.png</file>
+        <file>imgs/begin.png</file>
+        <file>imgs/beginp.png</file>
+        <file>imgs/boy.png</file>
+        <file>imgs/cup-h.png</file>
+        <file>imgs/cup-i.png</file>
+        <file>imgs/cupii.png</file>
+        <file>imgs/down.png</file>
+        <file>imgs/downp.png</file>
+        <file>imgs/genter.png</file>
+        <file>imgs/girl.png</file>
+        <file>imgs/h-slider.png</file>
+        <file>imgs/home.png</file>
+        <file>imgs/homep.png</file>
+        <file>imgs/lady.png</file>
+        <file>imgs/left.png</file>
+        <file>imgs/leftp.png</file>
+        <file>imgs/LOGO.png</file>
+        <file>imgs/man.png</file>
+        <file>imgs/mleft.png</file>
+        <file>imgs/mleftp.png</file>
+        <file>imgs/mright.png</file>
+        <file>imgs/mrightp.png</file>
+        <file>imgs/o3.png</file>
+        <file>imgs/o3p.png</file>
+        <file>imgs/pasuep.png</file>
+        <file>imgs/pause.png</file>
+        <file>imgs/right.png</file>
+        <file>imgs/rightp.png</file>
+        <file>imgs/seting.png</file>
+        <file>imgs/setingp.png</file>
+        <file>imgs/stop.png</file>
+        <file>imgs/ta.png</file>
+        <file>imgs/tap.png</file>
+        <file>imgs/td.png</file>
+        <file>imgs/tdp.png</file>
+        <file>imgs/tleft.png</file>
+        <file>imgs/tleftp.png</file>
+        <file>imgs/tright.png</file>
+        <file>imgs/trightp.png</file>
+        <file>imgs/up.png</file>
+        <file>imgs/upp.png</file>
+        <file>imgs/woman.png</file>
+        <file>imgs/圆形 2.0L.png</file>
+        <file>imgs/圆形 2.0L 按下.png</file>
+        <file>imgs/圆形 2.5L.png</file>
+        <file>imgs/圆形 2.5L 按下.png</file>
+        <file>imgs/圆形 3.0L.png</file>
+        <file>imgs/圆形 3.0L 按下.png</file>
+        <file>imgs/圆形井号.png</file>
+        <file>imgs/圆形井号 按下.png</file>
+        <file>imgs/圆形数字0 按下.png</file>
+        <file>imgs/圆形数字0.png</file>
+        <file>imgs/圆形数字1.png</file>
+        <file>imgs/圆形数字1 按下.png</file>
+        <file>imgs/圆形数字2.png</file>
+        <file>imgs/圆形数字2 按下.png</file>
+        <file>imgs/圆形数字3.png</file>
+        <file>imgs/圆形数字3 按下.png</file>
+        <file>imgs/圆形数字4.png</file>
+        <file>imgs/圆形数字4 按下.png</file>
+        <file>imgs/圆形数字5.png</file>
+        <file>imgs/圆形数字5 按下.png</file>
+        <file>imgs/圆形数字6.png</file>
+        <file>imgs/圆形数字6 按下.png</file>
+        <file>imgs/圆形数字7.png</file>
+        <file>imgs/圆形数字7 按下.png</file>
+        <file>imgs/圆形数字8.png</file>
+        <file>imgs/圆形数字8 按下.png</file>
+        <file>imgs/圆形数字9.png</file>
+        <file>imgs/圆形数字9 按下.png</file>
+        <file>imgs/圆形米号.png</file>
+        <file>imgs/圆形米号 按下.png</file>
+        <file>imgs/圆角矩形 橙色.png</file>
+        <file>imgs/圆角矩形 蓝色.png</file>
+        <file>imgs/大图标 大圆形 三箭头.png</file>
+        <file>imgs/大图标 大圆形 禁火.png</file>
+        <file>imgs/大图标 大圆形 通风.png</file>
+        <file>imgs/大图标 橙色 内水箱水位低.png</file>
+        <file>imgs/大图标 橙色 氢水杯水位低.png</file>
+        <file>imgs/大图标 橙色 超声波水位低.png</file>
+        <file>imgs/大图标 橙色 雾化杯液位低.png</file>
+        <file>imgs/大图标 蓝色 内水箱水位.png</file>
+        <file>imgs/大图标 蓝色 氢水杯水位.png</file>
+        <file>imgs/大图标 蓝色 超声波水位.png</file>
+        <file>imgs/大图标 蓝色 雾化杯液位.png</file>
+        <file>imgs/妯悜婊戝姩鏉_png</file>
+        <file>imgs/妯悜 婊戝潡.png</file>
+        <file>imgs/时间显示栏.png</file>
+        <file>imgs/杈撳叆鏍_鐭_png</file>
+        <file>imgs/杈撳叆鏍_闀_png</file>
+        <file>imgs/横向滑动条.png</file>
+        <file>imgs/横向 滑块.png</file>
+        <file>imgs/澶у浘鏍_姗欒壊 姘㈡按鏉按浣嶄綆.png</file>
+        <file>imgs/澶у浘鏍_姗欒壊 瓒呭０娉㈡按浣嶄綆.png</file>
+        <file>imgs/澶у浘鏍_姗欒壊 鍐呮按绠辨按浣嶄綆.png</file>
+        <file>imgs/澶у浘鏍_姗欒壊 闆惧寲鏉恫浣嶄綆.png</file>
+        <file>imgs/澶у浘鏍_澶у渾褰_涓夌澶_png</file>
+        <file>imgs/澶у浘鏍_澶у渾褰_绂佺伀.png</file>
+        <file>imgs/澶у浘鏍_澶у渾褰_閫氶.png</file>
+        <file>imgs/澶у浘鏍_钃濊壊 姘㈡按鏉按浣_png</file>
+        <file>imgs/澶у浘鏍_钃濊壊 瓒呭０娉㈡按浣_png</file>
+        <file>imgs/澶у浘鏍_钃濊壊 鍐呮按绠辨按浣_png</file>
+        <file>imgs/澶у浘鏍_钃濊壊 闆惧寲鏉恫浣_png</file>
+        <file>imgs/璺戦亾鍦_涓_png</file>
+        <file>imgs/璺戦亾鍦_涓_鎸変笅.png</file>
+        <file>imgs/璺戦亾鍦_鐭_png</file>
+        <file>imgs/璺戦亾鍦_鐭_鎸変笅.png</file>
+        <file>imgs/璺戦亾鍦_闀_png</file>
+        <file>imgs/璺戦亾鍦_闀_鎸変笅.png</file>
+        <file>imgs/矩形 蓝色.png</file>
+        <file>imgs/矩形 蓝色 大圆角.png</file>
+        <file>imgs/竖向 滑动条.png</file>
+        <file>imgs/竖向 滑块.png</file>
+        <file>imgs/绔栧悜 婊戝姩鏉_png</file>
+        <file>imgs/绔栧悜 婊戝潡.png</file>
+        <file>imgs/背景.png</file>
+        <file>imgs/跑道圆 中.png</file>
+        <file>imgs/跑道圆 中 按下.png</file>
+        <file>imgs/跑道圆 短.png</file>
+        <file>imgs/跑道圆 短 按下.png</file>
+        <file>imgs/跑道圆 长.png</file>
+        <file>imgs/跑道圆 长 按下.png</file>
+        <file>imgs/输入栏 短.png</file>
+        <file>imgs/输入栏 长.png</file>
+        <file>imgs/鍦嗗舰 2.0L.png</file>
+        <file>imgs/鍦嗗舰 2.0L 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰 2.5L.png</file>
+        <file>imgs/鍦嗗舰 2.5L 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰 3.0L.png</file>
+        <file>imgs/鍦嗗舰 3.0L 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰浜曞彿.png</file>
+        <file>imgs/鍦嗗舰浜曞彿 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰绫冲彿.png</file>
+        <file>imgs/鍦嗗舰绫冲彿 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧0 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧0.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧1.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧1 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧2.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧2 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧3.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧3 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧4.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧4 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧5.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧5 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧6.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧6 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧7.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧7 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧8.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧8 鎸変笅.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧9.png</file>
+        <file>imgs/鍦嗗舰鏁板瓧9 鎸変笅.png</file>
+        <file>imgs/鍦嗚鐭╁舰 姗欒壊.png</file>
+        <file>imgs/鍦嗚鐭╁舰 钃濊壊.png</file>
+        <file>imgs/鏃堕棿鏄剧ず鏍_png</file>
+        <file>imgs/鐭╁舰 钃濊壊.png</file>
+        <file>imgs/鐭╁舰 钃濊壊 澶у渾瑙_png</file>
+        <file>imgs/鑳屾櫙.png</file>
+    </qresource>
+</RCC>

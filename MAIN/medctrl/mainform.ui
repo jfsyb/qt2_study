@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>mainForm</class>
+ <widget class="QWidget" name="mainForm">
+  <property name="windowModality">
+   <enum>Qt::WindowModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>true</bool>
+  </property>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>40</y>
+     <width>169</width>
+     <height>224</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="ql_setTime">
+      <property name="minimumSize">
+       <size>
+        <width>167</width>
+        <height>70</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>167</width>
+        <height>70</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <family>aakar</family>
+        <pointsize>22</pointsize>
+        <weight>75</weight>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="autoFillBackground">
+       <bool>true</bool>
+      </property>
+      <property name="text">
+       <string>  时   间</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="ql_whl">
+      <property name="minimumSize">
+       <size>
+        <width>167</width>
+        <height>70</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>167</width>
+        <height>70</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <family>aakar</family>
+        <pointsize>22</pointsize>
+        <weight>75</weight>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="autoFillBackground">
+       <bool>true</bool>
+      </property>
+      <property name="text">
+       <string>  雾 化 量</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="ql_cql">
+      <property name="minimumSize">
+       <size>
+        <width>167</width>
+        <height>70</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>167</width>
+        <height>70</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <family>aakar</family>
+        <pointsize>22</pointsize>
+        <weight>75</weight>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="autoFillBackground">
+       <bool>true</bool>
+      </property>
+      <property name="text">
+       <string>  产 气 量</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>30</y>
+     <width>311</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout"/>
+  </widget>
+  <widget class="QToolButton" name="toolButton">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>150</y>
+     <width>210</width>
+     <height>210</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>210</width>
+     <height>210</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>30</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QToolButton{  
+	font: 75 9pt &quot;Noto Naskh Arabic UI&quot;;
+   min-width:30px;  
+   min-height:30px;  
+}  
+QToolButton{  
+color:rgb(255, 0, 0);  
+min-height:30;  
+border-style:solid;  
+border-top-left-radius:30px;  
+border-top-right-radius:30px;  
+background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop:0 rgb(255,0,0),   
+                            stop: 0.3 rgb(0,255,0),  
+                              stop: 1 rgb(0,0,255));  
+border:30px;  
+border-radius:30px;padding:90px 90px;/*border-radius控制圆角大小*/  
+}  
+QToolButton:hover{  /*鼠标放上后*/  
+color:rgb(0, 255, 0);  
+min-height:30;  
+border-style:solid;  
+border-top-left-radius:30px;  
+border-top-right-radius:30px;  
+background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop:0 rgb(128,0,0),   
+                            stop: 0.3 rgb(0,128,0),  
+                              stop: 1 rgb(0,0,120));  
+border:30px;  
+border-radius:30px;padding:90px 90px;  
+}  
+QToolButton:pressed{ /*按下按钮后*/  
+color:rgb(0, 0, 255);  
+min-height:30;  
+border-style:solid;  
+border-top-left-radius:30px;  
+border-top-right-radius:30px;  
+background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop:0 rgb(226,236,241),   
+                            stop: 0.3 rgb(190,190,190),  
+                              stop: 1 rgb(160,160,160));  
+border:30px;  
+border-radius:30px;padding:30px 30px;  
+}  
+QToolButton:checked{    /*选中后*/  
+color:rgb(255, 255, 255);  
+min-height:30;  
+border-style:solid;  
+border-top-left-radius:30px;  
+border-top-right-radius:30px;  
+background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop:0 rgb(226,236,241),   
+                            stop: 0.3 rgb(190,190,190),  
+                              stop: 1 rgb(160,160,160));  
+border:30px;  
+border-radius:30px;padding:30px 30px;  
+}  </string>
+   </property>
+   <property name="text">
+    <string>你好</string>
+   </property>
+  </widget>
+  <widget class="QToolButton" name="toolButton_2">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>190</y>
+     <width>90</width>
+     <height>90</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>0</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>90</width>
+     <height>90</height>
+    </size>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+QToolButton{  
+color:rgb(255, 0, 0);  
+border-style:solid;  
+border-top-left-radius:45px;  
+border-top-right-radius:45px;  
+background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop:0 rgb(255,0,0),   
+                            stop: 0.3 rgb(0,255,0),  
+                              stop: 1 rgb(0,0,255));  
+border-radius:45px;padding:90px 90px;/*border-radius控制圆角大小*/  
+}</string>
+   </property>
+   <property name="text">
+    <string>...</string>
+   </property>
+   <property name="icon">
+    <iconset resource="pngfile.qrc">
+     <normaloff>:/seven/imgs/add.png</normaloff>:/seven/imgs/add.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>90</width>
+     <height>90</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="pngfile.qrc"/>
+ </resources>
+ <connections/>
+</ui>
